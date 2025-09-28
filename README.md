@@ -106,3 +106,18 @@ This project was created by [Ravikant Singh](https://github.com/ravikantsingh12)
 ## Follow me on
 
 - [LinkedIn](https://www.linkedin.com/in/ravikant-singh-327a98241)
+
+## TEST FUCNTION
+![register in website](./public/image.png)
+![After register, information of user store in mongodb](./public/image1.png)
+![Sign in with user account](./public/image2.png)
+![Complete Sign in](./public/image3.png)
+![Forgot password](./public/image4.png)
+![New password is sent by email which set up](./public/image5.png)
+![Complete sign in with new password](./public/image6.png)
+![Sign in with google account](./public/image7.png)
+![Choose account google](./public/image8.png)
+![Complete sign in](./public/image9.png)
+![Change password](./public/image10.png)
+![Print alert password changed successfully](./public/image11.png)
+![Complete sign in](./public/image12.png)
